@@ -12,7 +12,7 @@
     <string name="option3desc">Zafarbí aj navigačnú lištu.</string>
     <string name="option4">Zobraziť názov aplikácie v upozornení</string>
     <string name="option4desc">Pri sťahovaní zobrazí názov aplikácie namiesto názvu súboru.</string>
-    <string name="settingsrestart">Reštertovanie</string>
+    <string name="settingsrestart">Reštartovanie</string>
     <string name="warningsettings">Prosím, berte na vedomie, že táto funkcia môže mať chyby, ak sa vyskytnú problémy, vymažte dáta aplikácie.</string>
     <string name="use_dark_theme">Použiť tmavú tému</string>
     <string name="for_those_who_want_to_join_the_dark_side">Pre tých, ktorí sa chcú pridať na temnú stranu.</string>
